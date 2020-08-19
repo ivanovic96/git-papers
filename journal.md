@@ -1,6 +1,6 @@
-# My super amazing title
+# Why we love Good Boy Charlie
 
-Authored by: Vika
+Authored by: Vika & Ed
 
 
 Introduction: This is my introduction to my amazing paper.
